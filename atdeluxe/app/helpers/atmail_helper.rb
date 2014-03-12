@@ -1,0 +1,2 @@
+module AtmailHelper
+end
